@@ -6,7 +6,6 @@ function ImageCard({ image }) {
   useEffect(() => {
     const allTags = image.tags.split(",");
     setTags(...tags, allTags);
-    console.log(tags);
   }, []);
 
   return (
