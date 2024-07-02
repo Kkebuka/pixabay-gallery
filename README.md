@@ -25,7 +25,7 @@ This web application allows users to search for images using the Pixabay API. Us
 #### Installation and Setup
 1. **Clone the repository:**
    ```
-   git clone https://github.com/your/repository.git
+   git clone https://github.com/Kkebuka/pixabay-gallery.git
    ```
    
 2. **Navigate into the project directory:**
@@ -59,8 +59,8 @@ This web application allows users to search for images using the Pixabay API. Us
 ---
 
 #### Credits
-- **Author:** [Your Name]
-- **GitHub:** [Link to GitHub Repository]
+- **Author:** [Okeke Ebuka]
+- **GitHub:** [https://github.com/Kkebuka/pixabay-gallery]
 
 ---
 
